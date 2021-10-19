@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning python and bash, soon to take on SQL and either apache or nginx
 - I install my own linux operating systems and use fedora
 - 💞️ I’m looking to collaborate on anything related to software development and/or the linux os
+- I am also interested in colaborating on aviation type software
 - 📫 I am easily reachable by email or phone: jgseaman3@yahoo.com (806)662-5800
 
 <!---
